@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/styleSheet">
+        <file>grayStyle.qss</file>
+    </qresource>
+</RCC>
