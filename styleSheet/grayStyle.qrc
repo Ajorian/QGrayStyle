@@ -1,5 +1,11 @@
 <RCC>
     <qresource prefix="/styleSheet">
         <file>grayStyle.qss</file>
+        <file>images/down.png</file>
+        <file>images/triangle.png</file>
+        <file>images/up.png</file>
+        <file>images/down_dis.png</file>
+        <file>images/triangle_dis.png</file>
+        <file>images/up_dis.png</file>
     </qresource>
 </RCC>
