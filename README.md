@@ -1,2 +1,3 @@
 # QGrayStyle
 This open source project is a collection of style sheets for different QWidgets such as QListWidget, QMenu, QToolButton , ...
+this project lets you to design your UI and then apply a general stylesheet for all QWidgets
